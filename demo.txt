@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Initial Content Adding more content adding some Content from test Master Content Another Contnent Just adding random stuff
+=======
+<<<<<<< HEAD
+Initial Content is better
+=======
+Ever better content
+>>>>>>> test_2
+>>>>>>> test
