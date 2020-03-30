@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Initial Content is better
+=======
+Ever better content
+>>>>>>> test_2
